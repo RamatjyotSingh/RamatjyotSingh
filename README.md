@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramatjyotsingh&show_icons=true&locale=en" alt="ramatjyotsingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramatjyotsingh" alt="ramatjyotsingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramatjyotsingh&" alt="ramatjyotsingh" /></p>
